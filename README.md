@@ -1,1 +1,2 @@
-Hands-on Learning DevOps
+Hands-on learning DevOps
+After INITIAL COMMIT
